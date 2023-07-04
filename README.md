@@ -14,7 +14,7 @@
 
 ### Finally, for this problem, the boosting algorithm well performed on the train data and failed to generalize on the test data(Overfitting!).
 
-### I had tried the seasonal decomposing linear model and it performed better than the boosting model.
+### I tried the seasonal decomposing linear model and it performed better than the boosting model.
 
 ### Final Competition score is 583.858113004428
 
